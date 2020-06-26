@@ -15,7 +15,7 @@
     "node-uuid": "^1.4.8",
     "react-paginate": "*",
     "request": "^2.88.2",
-    "superagent": "0.17.0",
+    "superagent": "5.2.2",
     "supertest": "*"
   },
   "scripts": {
